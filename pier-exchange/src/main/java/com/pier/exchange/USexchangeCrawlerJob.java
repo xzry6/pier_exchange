@@ -23,7 +23,7 @@ public class USexchangeCrawlerJob {
 	private static long ONEDAY = 24*60*60*1000;
 	private static long TENMINUTES = 10*60*1000;
 	
-	private static String TIME_M ="16:50:00";// execute for month
+	private static String TIME_M ="10:00:00";// execute for month
 
 	protected static Logger logger = Logger.getLogger(USexchangeCrawlerJob.class);
 
